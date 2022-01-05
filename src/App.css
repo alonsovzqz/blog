@@ -1,0 +1,9 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Content */
+.content {
+  padding-top: 2rem;
+}
